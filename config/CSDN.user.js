@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         CSDN
-// @namespace    http://tampermonkey.net/
+// @namespace    https://wu.nerd.moe/
 // @version      0.1
 // @description  try to take over the world!
-// @author       You
+// @author       wu.nerd
 // @match        http*://blog.csdn.net/*/article/details/*
 // @grant        none
 // ==/UserScript==
