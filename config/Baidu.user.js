@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Baidu
 // @namespace    https://wu.nerd.moe/
-// @version      0.3
+// @version      0.4
 // @description  try to take over the world!
 // @author       wu.nerd
 //               百度云文档
@@ -9,7 +9,7 @@
 //               百度AI开放平台
 // @include      /^https?://ai\.baidu\.com/docs*
 // @grant        none
-// @require http://code.jquery.com/jquery-1.12.4.min.js
+// @require      https://code.jquery.com/jquery-3.3.1.min.js
 // ==/UserScript==
 
 (function() {
